@@ -1,6 +1,6 @@
 <?php
 // DATA BASE NAME
-define('db_name','Spoon');
+define('db_name','spoon');
 // DATA BASE USER
 define('db_user','root');
 // DATA BASE PASSWORD
